@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(24, 12, 36);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.z420 {
+  background-color:rgb(61, 44, 78);
+  padding: 4rem;
+  border-radius: 2rem;
+}
+
+.z420 h1 {
+  color: white;
+  font-size: 2rem;
+}
